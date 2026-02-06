@@ -1,6 +1,6 @@
-# TEAM
+#### TEAM
 
-## PhD Students
+##### PhD Students
 
 <div class="team-member">
     <div class="row align-items-center mb-4">
@@ -46,7 +46,7 @@
     </div>
 </div>
 
-## MPhil Students
+##### MPhil Students
 
 <div class="team-member">
     <div class="row align-items-center mb-4">
@@ -61,7 +61,7 @@
     </div>
 </div>
 
-## Research Assistants
+##### Research Assistants
 
 <div class="team-member">
     <div class="row align-items-center mb-4">
@@ -72,6 +72,20 @@
             <h4>Nuo Guan</h4>
             <p><strong>Research Interests:</strong> MCMC algorithms</p>
             <p><strong>Email:</strong> <a href="mailto:guann@mail.sustech.edu.cn">guann@mail.sustech.edu.cn</a></p>
+        </div>
+    </div>
+</div>
+
+
+<div class="team-member">
+    <div class="row align-items-center mb-4">
+        <div class="col-md-3 text-center">
+            <img src="static/assets/Team/YaoSuo.jpg" alt="Yao Suo" class="team-photo img-fluid rounded" style="max-width: 200px;">
+        </div>
+        <div class="col-md-9">
+            <h4>Yao Suo</h4>
+            <p><strong>Responsibilities:</strong> Manage the group's finances and handle daily reimbursement operations.</p>
+            <p><strong>Email:</strong> <a href="mailto:suoy@mail.sustech.edu.cn">suoy@mail.sustech.edu.cn</a></p>
         </div>
     </div>
 </div>
