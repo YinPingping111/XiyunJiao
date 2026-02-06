@@ -1,6 +1,4 @@
-
-
-##### PhD Students
+#### PhD Students
 
 <div class="team-member">
     <div class="row align-items-center mb-4">
@@ -46,7 +44,7 @@
     </div>
 </div>
 
-##### MPhil Students
+#### MPhil Students
 
 <div class="team-member">
     <div class="row align-items-center mb-4">
@@ -61,7 +59,7 @@
     </div>
 </div>
 
-##### Research Assistants
+#### Research Assistants
 
 <div class="team-member">
     <div class="row align-items-center mb-4">
