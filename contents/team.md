@@ -70,7 +70,7 @@
         </div>
         <div class="col-md-9">
             <h4>Nuo Guan</h4>
-            <p><strong>Research Interests:</strong>MCMC algorithms</p>
+            <p><strong>Research Interests:</strong> MCMC algorithms</p>
             <p><strong>Email:</strong> <a href="mailto:guann@mail.sustech.edu.cn">guann@mail.sustech.edu.cn</a></p>
         </div>
     </div>
