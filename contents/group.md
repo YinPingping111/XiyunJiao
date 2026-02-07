@@ -2,10 +2,10 @@
 
 <strong>PhD Students</strong>
 
-<div class="team-member">
+<div class="group-member">
     <div class="row align-items-center mb-4">
         <div class="col-md-3 text-center">
-            <img src="static/assets/Team/MingTan.jpg" alt="Ming Tan" class="team-photo img-fluid rounded" style="max-width: 200px;">
+            <img src="static/assets/group/MingTan.jpg" alt="Ming Tan" class="group-photo img-fluid rounded" style="max-width: 200px;">
         </div>
         <div class="col-md-9">
             <h4>Ming Tan</h4>
@@ -16,10 +16,10 @@
     </div>
 </div>
 
-<div class="team-member">
+<div class="group-member">
     <div class="row align-items-center mb-4">
         <div class="col-md-3 text-center">
-            <img src="static/assets/Team/PingpingYin.jpg" alt="Pingping Yin" class="team-photo img-fluid rounded" style="max-width: 200px;">
+            <img src="static/assets/group/PingpingYin.jpg" alt="Pingping Yin" class="group-photo img-fluid rounded" style="max-width: 200px;">
         </div>
         <div class="col-md-9">
             <h4>Pingping Yin</h4>
@@ -29,10 +29,10 @@
     </div>
 </div>
 
-<div class="team-member">
+<div class="group-member">
     <div class="row align-items-center mb-4">
         <div class="col-md-3 text-center">
-            <img src="static/assets/Team/JunyuSu.jpg" alt="Junyu Su" class="team-photo img-fluid rounded" style="max-width: 200px;">
+            <img src="static/assets/group/JunyuSu.jpg" alt="Junyu Su" class="group-photo img-fluid rounded" style="max-width: 200px;">
         </div>
         <div class="col-md-9">
             <h4>Junyu Su</h4>
@@ -50,10 +50,10 @@
 
 <strong>MPhil Students</strong>
 
-<div class="team-member">
+<div class="group-member">
     <div class="row align-items-center mb-4">
         <div class="col-md-3 text-center">
-            <img src="static/assets/Team/YueJiang.jpg" alt="Yue Jiang" class="team-photo img-fluid rounded" style="max-width: 200px;">
+            <img src="static/assets/group/YueJiang.jpg" alt="Yue Jiang" class="group-photo img-fluid rounded" style="max-width: 200px;">
         </div>
         <div class="col-md-9">
             <h4>Yue Jiang</h4>
@@ -67,10 +67,10 @@
 
 <strong>Research Assistants</strong>
 
-<div class="team-member">
+<div class="group-member">
     <div class="row align-items-center mb-4">
         <div class="col-md-3 text-center">
-            <img src="static/assets/Team/NuoGuan.jpg" alt="Nuo Guan" class="team-photo img-fluid rounded" style="max-width: 200px;">
+            <img src="static/assets/group/NuoGuan.jpg" alt="Nuo Guan" class="group-photo img-fluid rounded" style="max-width: 200px;">
         </div>
         <div class="col-md-9">
             <h4>Nuo Guan</h4>
@@ -81,10 +81,10 @@
 </div>
 
 
-<div class="team-member">
+<div class="group-member">
     <div class="row align-items-center mb-4">
         <div class="col-md-3 text-center">
-            <img src="static/assets/Team/YaoSuo.jpg" alt="Yao Suo" class="team-photo img-fluid rounded" style="max-width: 200px;">
+            <img src="static/assets/group/YaoSuo.jpg" alt="Yao Suo" class="group-photo img-fluid rounded" style="max-width: 200px;">
         </div>
         <div class="col-md-9">
             <h4>Yao Suo</h4>
